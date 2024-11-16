@@ -1,0 +1,56 @@
+/* Projects Section */
+#projects {
+    background-color: #e0f7fa; /* Light teal for contrast */
+    padding: 2rem 0; /* Add vertical padding */
+  }
+  
+  /* Project Card Styling */
+  .project-card {
+    background-color: #ffffff; /* White background for contrast */
+    border: 2px solid #007bff; /* Primary color border */
+    border-radius: 8px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px; /* Add padding for better spacing */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle default shadow */
+  }
+  
+  /* Header color */
+  .project-card h3 {
+    color: #d32f2f; /* Dark red for the project title */
+  }
+  
+  /* Description text color */
+  .project-card p {
+    color: #555555; /* Dark gray for readability */
+  }
+  
+  /* Hover effect */
+  .project-card:hover {
+    transform: scale(1.05); /* Slight zoom */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+    border-color: #ff7043; /* Change border color on hover */
+  }
+  
+  /* Button styling */
+  .btn-primary {
+    background-color: #007bff; /* Primary blue */
+    border: none;
+    color: white; /* Button text color */
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    color: #ffcc00; /* Change text color to yellow on hover */
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .project-card {
+      margin-bottom: 20px; /* Ensure spacing on smaller screens */
+    }
+  }
+  

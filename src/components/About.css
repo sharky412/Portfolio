@@ -1,0 +1,28 @@
+.about-section {
+    background: linear-gradient(135deg, #ffcc80, #ffe0b2); /* Soft orange-yellow gradient */
+    border: 2px solid #007bff; /* Blue border */
+    border-radius: 10px; /* Rounded corners */
+    color: #333; /* Darker text for better readability */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+
+  
+  /* Hover effect */
+  .about-section:hover {
+    background: linear-gradient(135deg, #ffb74d, #fff59d); /* Softer gradient on hover */
+    transform: scale(1.02); /* Slight zoom effect */
+  }
+  
+  /* Click effect */
+  .about-section:active {
+    background-color: #f57c00; /* Orange background */
+    transform: scale(0.98); /* Shrink effect */
+  }
+  
+  /* Responsive padding adjustments */
+  @media (max-width: 768px) {
+    .about-section {
+      padding: 2rem 1rem;
+    }
+  }
+  

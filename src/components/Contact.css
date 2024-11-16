@@ -1,0 +1,32 @@
+.contact-section {
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9); /* Soft green gradient */
+  border: 2px solid #28a745; /* Green border */
+  border-radius: 10px; /* Rounded corners */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  color: #333; /* Dark text for better readability */
+}
+
+/* Hover effect */
+.contact-section:hover {
+  background-color: #f1fdf4; /* Light green background */
+  transform: scale(1.02); /* Slight zoom effect */
+}
+
+/* Click effect */
+.contact-section:active {
+  background-color: #d4edda; /* Slightly darker green background */
+  transform: scale(0.98); /* Shrinks slightly */
+}
+
+/* Responsive padding adjustments */
+@media (max-width: 768px) {
+  .contact-section {
+    padding: 2rem 1rem; /* Adjust padding for smaller screens */
+  }
+}
+
+@media (min-width: 768px) {
+  .contact-section {
+    padding: 3rem; /* More padding for larger screens */
+  }
+}

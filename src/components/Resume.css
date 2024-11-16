@@ -1,0 +1,22 @@
+.resume-section {
+    padding: 2rem;
+    background-color: #f0f4f8; /* Light background */
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .resume-section:hover {
+    background-color: #e0e7ec; /* Slightly darker background on hover */
+    transform: scale(1.02);
+  }
+  
+  .resume-section a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .resume-section a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
