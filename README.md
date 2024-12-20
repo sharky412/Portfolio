@@ -36,7 +36,7 @@ This is a **React-based portfolio webpage** designed to showcase my skills, proj
 
 ## Contact
 For questions or feedback:
-- **GitHub**: [https://github.com/username](https://github.com/username)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [https://github.com/sharky412](https://github.com/username)
+- **Email**: [keershardul@gmail.com](mailto:your-email@example.com)
 
 Feel free to explore and provide suggestions! 😊
