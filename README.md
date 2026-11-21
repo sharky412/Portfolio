@@ -21,7 +21,7 @@ A single-page **React** portfolio that showcases my skills, projects, résumé a
 
 ## Tech stack
 
-- React 18 (Create React App / `react-scripts`)
+- React 18 (built with [Vite](https://vite.dev))
 - Bootstrap 5
 - CSS for custom styling
 
@@ -34,14 +34,14 @@ npm install
 npm start
 ```
 
-Then open http://localhost:3000.
+Then open http://localhost:5173/Portfolio/.
 
-| Script           | Description                                                  |
-| ---------------- | ------------------------------------------------------------ |
-| `npm start`      | Start the development server                                 |
-| `npm run build`  | Create a production build                                    |
-| `npm test`       | Run tests                                                    |
-| `npm run deploy` | Build and publish to GitHub Pages (`gh-pages` branch)        |
+| Script            | Description                                           |
+| ----------------- | ----------------------------------------------------- |
+| `npm start`       | Start the Vite development server                     |
+| `npm run build`   | Create a production build                             |
+| `npm run preview` | Serve the production build locally                    |
+| `npm run deploy`  | Build and publish to GitHub Pages (`gh-pages` branch) |
 
 ## Contact
 
