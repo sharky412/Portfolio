@@ -1,42 +1,50 @@
 # React Portfolio Website
 
-This is a **React-based portfolio webpage** designed to showcase my skills, projects, and contact information on a single, responsive page. The project emphasizes simplicity and clean design, offering an engaging user experience.
+A single-page **React** portfolio that showcases my skills, projects, résumé and contact information in a clean, responsive layout.
+
+[![Live demo](https://img.shields.io/badge/demo-live-brightgreen?logo=github)](https://sharky412.github.io/Portfolio/)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+
+**Live demo:** https://sharky412.github.io/Portfolio/
 
 ## Features
-- **About Section**: Highlights personal information, career goals, and a brief introduction.
-- **Projects Showcase**: Displays selected projects with descriptions and links to GitHub repositories or live demos.
-- **Skills Section**: Visual representation of technical proficiencies.
-- **Contact Form**: Users can reach out via a form that integrates email functionality.
-- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices.
 
-## Technologies Used
-- **React**: Framework for component-based UI development.
-- **CSS**: For styling and layout.
-- **React Router**: Enables smooth navigation within the page.
-- **Bootstrap**: Ensures a responsive, grid-based layout.
+- **About**: a short personal introduction.
+- **Résumé**: view or download the résumé PDF.
+- **Skills**: languages, frameworks, editors and databases.
+- **Projects**: selected projects with descriptions and links to their GitHub repositories.
+- **Contact**: email and LinkedIn links.
+- **Responsive design**: works on desktop, tablet and mobile.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/react-portfolio.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd react-portfolio
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the project:
-   ```bash
-   npm start
-   ```
-5. Open `http://localhost:3000` in your browser to view the page.
+## Tech stack
+
+- React 18 (Create React App / `react-scripts`)
+- Bootstrap 5
+- CSS for custom styling
+
+## Getting started
+
+```bash
+git clone https://github.com/sharky412/Portfolio.git
+cd Portfolio
+npm install
+npm start
+```
+
+Then open http://localhost:3000.
+
+| Script          | Description                  |
+| --------------- | ---------------------------- |
+| `npm start`     | Start the development server |
+| `npm run build` | Create a production build    |
+| `npm test`      | Run tests                    |
 
 ## Contact
-For questions or feedback:
-- **GitHub**: [https://github.com/sharky412](https://github.com/username)
-- **Email**: [keershardul@gmail.com](mailto:your-email@example.com)
 
-Feel free to explore and provide suggestions! 😊
+- **GitHub**: [sharky412](https://github.com/sharky412)
+- **Email**: [keershardul@gmail.com](mailto:keershardul@gmail.com)
+- **LinkedIn**: [Shardul Keer](https://www.linkedin.com/in/shardul-keer-7713b7228/)
+
+Feel free to explore and share suggestions! 😊
