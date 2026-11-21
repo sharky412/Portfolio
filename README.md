@@ -36,11 +36,12 @@ npm start
 
 Then open http://localhost:3000.
 
-| Script          | Description                  |
-| --------------- | ---------------------------- |
-| `npm start`     | Start the development server |
-| `npm run build` | Create a production build    |
-| `npm test`      | Run tests                    |
+| Script           | Description                                                  |
+| ---------------- | ------------------------------------------------------------ |
+| `npm start`      | Start the development server                                 |
+| `npm run build`  | Create a production build                                    |
+| `npm test`       | Run tests                                                    |
+| `npm run deploy` | Build and publish to GitHub Pages (`gh-pages` branch)        |
 
 ## Contact
 
