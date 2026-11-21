@@ -22,6 +22,20 @@ const Projects = () => {
         'database operations. Users can register, log in, and view order history, while admins manage products and categories. ' +
         'The store uses SQL Server for data, Bootstrap for design, and integrates with Stripe or PayPal for payments.',
       link: 'https://github.com/sharky412/OnlineStoreMVC'
+    },
+    {
+      name: 'playwright-jira-creator',
+      description:
+        'Claude Code skill that turns a Jira bug into a verified Playwright bug-recorder test. ' +
+        'Tech: Claude Code, Playwright, Jira, Python, Node.js.',
+      link: 'https://github.com/sharky412/playwright-jira-creator'
+    },
+    {
+      name: 'android-adb-debloat',
+      description:
+        'Claude skill to safely audit and debloat an Android phone over ADB without root: read-only first, approval-gated, fully reversible. ' +
+        'Tech: Android, ADB, Bash, Claude.',
+      link: 'https://github.com/sharky412/android-adb-debloat'
     }
   ];
 
