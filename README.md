@@ -6,6 +6,7 @@ A single-page **React** portfolio that showcases my skills, projects, résumé a
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Live demo:** https://sharky412.github.io/Portfolio/
 
@@ -48,3 +49,7 @@ Then open http://localhost:3000.
 - **LinkedIn**: [Shardul Keer](https://www.linkedin.com/in/shardul-keer-7713b7228/)
 
 Feel free to explore and share suggestions! 😊
+
+## License
+
+Released under the [MIT License](LICENSE).
